@@ -15,7 +15,27 @@ h6 {
 }
 
 h1 {
-  font-size: 250%; /* (45/18)*100% */
+  font-size: 250%; /* (45px/18)*100% */
+}
+
+h2 {
+  font-size: 200%; /* 36px */
+}
+
+h3 {
+  font-size: 177.78%; /* 32px */
+}
+
+h4 {
+  font-size: 162.5%; /* 26px */
+}
+
+h5 {
+  font-size: 122%; /* 22px */
+}
+
+h6 {
+  font-size: 100%; /* 18px */
 }
 
 h3 {
