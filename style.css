@@ -3,10 +3,10 @@ div {
   font-family: sans-serif;
 }
 
-strong {
-  color: blue;
-}
-
 .highlight {
   color: red;
+}
+
+strong {
+  color: blue;
 }
