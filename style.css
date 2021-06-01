@@ -17,3 +17,8 @@ em {
 strong {
   color: red;
 }
+
+/* p要素の子孫strong */
+p strong {
+  color: coral;
+}
