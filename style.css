@@ -8,5 +8,6 @@ div {
 }
 
 strong {
-  color: blue;
+  /* !importanを用いる場合は、その理由をコメントする */
+  color: blue !important;
 }
