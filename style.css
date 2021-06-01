@@ -27,3 +27,13 @@ p strong {
 h3 strong {
   color: blue;
 }
+
+/* ul要素の子孫strong, liは不要 */
+ul strong {
+  color: dodgerblue;
+}
+
+/* ol要素の子孫strong, liは不要 */
+ol strong {
+  color: green;
+}
