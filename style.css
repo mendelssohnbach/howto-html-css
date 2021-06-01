@@ -2,10 +2,8 @@ body {
   font-family: sans-serif;
 }
 
-h2 {
-  font-weight: normal;
-}
-
+/* グループセレクタ */
+h2,
 h3 {
   font-weight: normal;
 }
