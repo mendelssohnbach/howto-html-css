@@ -1,5 +1,8 @@
-div {
+* {
   box-sizing: border-box;
+}
+
+div {
   width: 250px;
   border: 1px solid red;
   padding: 30px 60px;
