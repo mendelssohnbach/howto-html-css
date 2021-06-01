@@ -16,3 +16,9 @@ h6 {
 h3 {
   font-weight: 700;
 }
+
+/* コンビネーションセレクタ */
+strong em,
+em strong {
+  font-family: 'Quicksand' sans-serif;
+}
