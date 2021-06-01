@@ -2,3 +2,12 @@ body {
   font-family: 'Public Sans', Verdana, sans-serif;
   font-feature-settings: 'palt';
 }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Quicksand', sans-serif;
+}
