@@ -22,3 +22,8 @@ strong {
 p strong {
   color: coral;
 }
+
+/* h3要素の子孫strong */
+h3 strong {
+  color: blue;
+}
