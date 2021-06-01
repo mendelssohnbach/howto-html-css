@@ -17,26 +17,32 @@ h6 {
 
 h1 {
   font-size: 250%; /* (45px/18)*100% */
+  color: indigo;
 }
 
 h2 {
   font-size: 200%; /* 36px */
+  color: mediumvioletred;
 }
 
 h3 {
   font-size: 177.78%; /* 32px */
+  color: limegreen;
 }
 
 h4 {
   font-size: 162.5%; /* 26px */
+  color: chocolate;
 }
 
 h5 {
   font-size: 122%; /* 22px */
+  color: crimson;
 }
 
 h6 {
   font-size: 100%; /* 18px */
+  color: deepskyblue;
 }
 
 h3 {
