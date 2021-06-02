@@ -1,0 +1,22 @@
+body {
+  background-color: #454545;
+  color: #333;
+  font-family: sans-serif;
+  font-feature-settings: 'palt';
+  line-height: 1.5;
+}
+
+section {
+  margin: 2rem auto;
+  width: 90%;
+  max-width: 50rem;
+  box-sizing: border-box;
+  padding: 2rem;
+  border-radius: 2rem;
+  border: 0.25rem solid #777;
+  background-color: white;
+}
+
+header {
+  text-align: right;
+}
