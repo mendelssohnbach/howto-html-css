@@ -18,3 +18,8 @@ body {
 .quote {
   margin: 0;
 }
+
+.quote-text {
+  font-size: 24px;
+  margin: 10px 0;
+}
