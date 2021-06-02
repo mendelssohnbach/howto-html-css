@@ -29,4 +29,11 @@ a,
 button {
   -webkit-appearance: none;
   appearance: none;
+  background-color: transparent;
+  border: none;
+  margin: 0;
+  padding: 0;
+  color: inherit;
+  font: inherit;
+  text-align: center;
 }
