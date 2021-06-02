@@ -59,3 +59,9 @@ button {
   cursor: pointer;
   vertical-align: bottom;
 }
+
+.button:hover {
+  color: white;
+  background-color: #25a;
+  border-color: #25a;
+}
