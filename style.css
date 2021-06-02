@@ -72,3 +72,10 @@ button {
   background-color: #25a;
   border-color: #25a;
 }
+
+.button:focus {
+  outline: none;
+  color: black;
+  background-color: gold;
+  border-color: black;
+}
