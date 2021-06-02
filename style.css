@@ -5,8 +5,14 @@ body {
   color: #444;
 }
 
-#header,
+/* #header,
 #content {
+  margin: 1em auto;
+  width: 90%;
+  max-width: 60ch;
+} */
+
+.content-width {
   margin: 1em auto;
   width: 90%;
   max-width: 60ch;
