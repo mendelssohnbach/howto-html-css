@@ -8,3 +8,19 @@ h2,
 h3 {
   font-family: 'Quicksand', sans-serif;
 }
+
+h1 {
+  font-size: 2.5rem; /* 40px */
+}
+
+h2 {
+  font-size: 1.875rem; /* 30px */
+}
+
+h3 {
+  font-size: 1.5rem; /* 24px */
+}
+
+p {
+  font-size: 1.25rem; /* 20px */
+}
