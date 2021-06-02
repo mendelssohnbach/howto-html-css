@@ -12,8 +12,8 @@ body {
 }
 
 .title {
-  font-size: 125%; /* target size=20px, context size=16px */
-  margin: 0 0 10px;
+  font-size: 1.25em; /* target size: 20px */
+  margin: 0 0 0.5em; /* target size: 10px */
 }
 
 .quote {
