@@ -34,9 +34,9 @@ body {
 }
 
 .citation {
-  border-top: 0.071em solid #ccc; /* target size: 1px */
-  margin-top: 1.43em; /* target size: 20px */
-  padding-top: 1.43em; /* target size: 20px */
+  border-top: 0.0625rem solid #ccc;
+  margin-top: 1.25rem;
+  padding-top: 1.25rem;
   color: #555;
-  font-size: 0.875em; /* target size: 14px */
+  font-size: 0.875rem;
 }
