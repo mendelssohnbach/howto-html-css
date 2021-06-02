@@ -48,3 +48,9 @@ body {
 .color-2.color-3 {
   color: hsl(225, 70%, 40%);
 }
+
+abbr[title] {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: hsl(0, 0%, 70%);
+}
