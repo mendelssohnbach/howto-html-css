@@ -40,5 +40,5 @@ body {
   margin-top: 20px;
   padding-top: 20px;
   color: #555;
-  font-size: 14px;
+  font-size: 87.5%; /* target size: 14px context size=16px */
 }
