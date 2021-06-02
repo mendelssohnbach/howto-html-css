@@ -63,3 +63,7 @@ abbr[title] {
 {
   color: hsl(150, 70%, 20%);
 }
+[href^="https://"]::before
+{
+  content: '\1F337';
+}
