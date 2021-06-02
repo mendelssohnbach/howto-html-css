@@ -26,6 +26,11 @@ a,
   color: #25a;
 }
 
+.link {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 button {
   -webkit-appearance: none;
   appearance: none;
