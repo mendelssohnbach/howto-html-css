@@ -25,3 +25,8 @@ a,
 .link {
   color: #25a;
 }
+
+button {
+  -webkit-appearance: none;
+  appearance: none;
+}
