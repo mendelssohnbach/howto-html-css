@@ -28,6 +28,8 @@ hr {
   width: 90%;
   max-width: 18rem;
   border-radius: 0.5rem;
+  border: 0.25rem solid teal;
+  background-color: darkturquoise;
 }
 
 footer {
