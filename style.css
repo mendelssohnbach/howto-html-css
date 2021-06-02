@@ -22,15 +22,15 @@ body {
 
 .quote-text {
   font-size: 1.5em; /* target size: 24px */
-  margin: 10px 0;
+  margin: 0.41667em 0; /* target size: 24px */
 }
 
 .large {
-  font-size: 133.3%; /* target size: 32px content size 24px */
+  font-size: 1.333em; /* target size: 32px */
 }
 
 .small {
-  font-size: 83.3%; /* target size: 20px content size 24px */
+  font-size: 0.8333em; /* target size: 20px */
 }
 
 .citation {
