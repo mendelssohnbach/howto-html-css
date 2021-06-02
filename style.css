@@ -26,11 +26,11 @@ body {
 }
 
 .large {
-  font-size: 1.333em; /* target size: 32px */
+  font-size: 1.5em;
 }
 
 .small {
-  font-size: 0.8333em; /* target size: 20px */
+  font-size: 0.75em;
 }
 
 .citation {
