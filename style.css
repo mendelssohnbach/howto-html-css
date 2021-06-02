@@ -38,6 +38,13 @@ a:focus,
   background-color: gold;
 }
 
+a:active,
+.link:active {
+  color: #808;
+  outline: none;
+  background-color: transparent;
+}
+
 .link {
   text-decoration: underline;
   cursor: pointer;
