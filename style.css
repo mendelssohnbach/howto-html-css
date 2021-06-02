@@ -1,7 +1,7 @@
 body {
-  font-family: 'Public Sans', sans-serif;
+  /* fontSize,lineHeight,fontFamilyを一括定義 */
+  font: 1em/1.5 'Public Sans', sans-serif;
   font-feature-settings: 'palt';
-  line-height: 1.5;
 }
 
 h1,
