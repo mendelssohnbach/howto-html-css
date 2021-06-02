@@ -26,6 +26,11 @@ a,
   color: #25a;
 }
 
+a:hover,
+.link:hover {
+  color: #b1b;
+}
+
 .link {
   text-decoration: underline;
   cursor: pointer;
