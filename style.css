@@ -27,7 +27,9 @@ a,
 }
 
 a:hover,
-.link:hover {
+.link:hover,
+a.visited:hover,
+.lin:visited:hover {
   color: #b1b;
 }
 
@@ -39,10 +41,12 @@ a:focus,
 }
 
 a:active,
-.link:active {
+.link:active,
+a:visited:hover,
+.link:visited:hover:active {
   color: #808;
-  outline: none;
-  background-color: transparent;
+  /* outline: none;
+  background-color: transparent; */
 }
 
 a:visited,
@@ -67,7 +71,8 @@ button {
   text-align: center;
 }
 
-.button {
+.button,
+.button:visited {
   color: #25a;
   background-color: #cef;
   border: 1px solid #67c;
@@ -79,7 +84,8 @@ button {
   vertical-align: bottom;
 }
 
-.button:hover {
+.button:hover,
+.button:visited:hover {
   color: white;
   background-color: #25a;
   border-color: #25a;
