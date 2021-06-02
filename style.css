@@ -12,7 +12,7 @@ body {
 }
 
 .title {
-  font-size: 1.25em; /* target size: 20px */
+  font-size: 1.25rem; /* target size: 20px */
   margin: 0 0 0.5em; /* target size: 10px */
 }
 
