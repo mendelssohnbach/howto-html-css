@@ -35,7 +35,7 @@ hr {
 footer {
   margin-top: 2rem;
   font-size: 0.875rem;
-  color: rgb(141, 136, 136);
+  color: hsl(200, 100%, 45%);
 }
 footer a {
   color: inherit;
