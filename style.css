@@ -3,13 +3,11 @@ body {
 }
 
 .excerpt {
-  /* margin: 4.1666667% auto; */
-  /* padding: 4.1666667%; */
-  margin: 20px auto;
-  padding: 20px;
-  border: 1px solid black;
+  margin: 1.25em auto;
+  padding: 1.25em;
+  border: 0.0625em solid black;
   width: 80%;
-  max-width: 480px;
+  max-width: 30em;
   box-sizing: border-box;
 }
 
