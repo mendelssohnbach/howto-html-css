@@ -4,3 +4,10 @@ body {
   line-height: 1.5;
   color: #444;
 }
+
+#header,
+#content {
+  margin: 1em auto;
+  width: 90%;
+  max-width: 60ch;
+}
