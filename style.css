@@ -21,7 +21,7 @@ body {
 }
 
 .quote-text {
-  font-size: 150%; /* target size: 24px */
+  font-size: 1.5em; /* target size: 24px */
   margin: 10px 0;
 }
 
