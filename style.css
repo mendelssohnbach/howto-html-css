@@ -24,7 +24,7 @@ header {
 a,
 .link {
   color: #25a;
-  transition: all 0.5s linear;
+  transition: all 250ms ease-in-out;
 }
 
 a:hover,
@@ -83,7 +83,7 @@ button {
   text-decoration: none;
   cursor: pointer;
   vertical-align: bottom;
-  transition: all 0.5s linear;
+  transition: all 180ms ease-in-out;
 }
 
 .button:hover,
