@@ -42,3 +42,11 @@ button {
   font: inherit;
   text-align: center;
 }
+
+.button {
+  color: #25a;
+  background-color: #67c;
+  border: 1px solid #67c;
+  border-radius: 0.5rem;
+  padding: 0.75rem 1.5rem;
+}
