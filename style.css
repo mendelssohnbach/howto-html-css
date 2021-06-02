@@ -45,6 +45,11 @@ a:active,
   background-color: transparent;
 }
 
+a:visited,
+.link:visited {
+  color: #000;
+}
+
 .link {
   text-decoration: underline;
   cursor: pointer;
