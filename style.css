@@ -31,6 +31,13 @@ a:hover,
   color: #b1b;
 }
 
+a:focus,
+.link:focus {
+  color: black;
+  outline: 2px solid gold;
+  background-color: gold;
+}
+
 .link {
   text-decoration: underline;
   cursor: pointer;
