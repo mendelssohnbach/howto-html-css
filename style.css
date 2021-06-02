@@ -10,9 +10,9 @@ article {
   width: 90%;
   max-width: 40rem;
   box-sizing: border-box;
-  background-color: rgb(245, 240, 240);
-  border: 0.25rem solid rgb(209, 204, 204);
-  color: rgb(73, 68, 68);
+  background-color: hsl(0, 0%, 94%);
+  border: 0.25rem solid hsl(0, 0%, 80%);
+  color: hsl(0, 0%, 27%);
 }
 
 h1 {
