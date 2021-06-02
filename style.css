@@ -19,7 +19,7 @@ h1 {
   font-size: 2rem;
   margin: 0 0 1rem;
   text-align: center;
-  color: rgb(153, 0, 0);
+  color: hsl(0, 100%, 25%);
 }
 
 hr {
@@ -28,8 +28,8 @@ hr {
   width: 90%;
   max-width: 18rem;
   border-radius: 0.5rem;
-  border: 2px solid rgb(189, 0, 0);
-  background-color: rgb(255, 0, 0);
+  border: 2px solid hsl(0, 100%, 35%);
+  background-color: hsl(0, 100%, 50%);
 }
 
 footer {
