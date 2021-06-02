@@ -20,3 +20,8 @@ section {
 header {
   text-align: right;
 }
+
+a,
+.link {
+  color: #25a;
+}
