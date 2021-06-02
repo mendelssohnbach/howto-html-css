@@ -86,3 +86,9 @@ button {
   background-color: gold;
   border-color: black;
 }
+
+.button:active {
+  color: #ddd;
+  background-color: #127;
+  border-color: #127;
+}
