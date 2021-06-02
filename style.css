@@ -13,6 +13,7 @@ h3 {
 
 h1 {
   font-size: 2.5rem; /* 40px */
+  text-transform: capitalize;
 }
 
 h2 {
