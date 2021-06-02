@@ -10,6 +10,9 @@ article {
   width: 90%;
   max-width: 40rem;
   box-sizing: border-box;
+  background-color: seashell;
+  border: 0.25rem solid sandybrown;
+  color: maroon;
 }
 
 h1 {
