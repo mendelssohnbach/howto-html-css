@@ -17,3 +17,14 @@ body {
   width: 90%;
   max-width: 60ch;
 }
+
+.style-1 {
+  font-size: 1.25rem;
+  text-transform: uppercase;
+  list-style: 0.125em;
+}
+
+.style-2 {
+  font-size: 2rem;
+  font-weight: normal;
+}
