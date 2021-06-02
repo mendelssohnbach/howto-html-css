@@ -54,3 +54,8 @@ abbr[title] {
   text-decoration-style: dotted;
   text-decoration-color: hsl(0, 0%, 70%);
 }
+
+[href="https://example.com"]
+{
+  color: hsl(150, 70%, 40%);
+}
