@@ -18,3 +18,8 @@ td {
 thead th {
   width: 25%;
 }
+
+.cell-highlight {
+  background-color: gold;
+  font-weight: bold;
+}
