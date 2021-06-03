@@ -12,6 +12,13 @@ table {
   vertical-align: middle;
 }
 
+caption {
+  font-weight: 700;
+  font-size: 24px;
+  text-align: left;
+  color: #333;
+}
+
 th,
 td {
   /* border: 1px solid black; */
