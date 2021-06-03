@@ -55,3 +55,6 @@ tbody th {
   color: #fff;
   text-align: left;
 }
+tbody tr:nth-child(even) th {
+  background-color: #25c;
+}
