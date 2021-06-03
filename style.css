@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700&display=swap');
 
 body {
   font-family: 'Poppins', sans-serif;
@@ -23,6 +23,10 @@ caption {
 thead {
   background-color: #333;
   color: white;
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  letter-spacing: 2%;
+  font-weight: 400;
 }
 
 th,
@@ -38,4 +42,11 @@ thead th {
 .cell-highlight {
   background-color: gold;
   font-weight: bold;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #fff;
+}
+tbody tr:nth-child(even) {
+  background-color: #eee;
 }
