@@ -50,3 +50,8 @@ tbody tr:nth-child(odd) {
 tbody tr:nth-child(even) {
   background-color: #eee;
 }
+tbody th {
+  background-color: #36c;
+  color: #fff;
+  text-align: left;
+}
