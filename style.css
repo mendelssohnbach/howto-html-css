@@ -4,3 +4,8 @@ body {
   font-family: 'Poppins', sans-serif;
   font-feature-settings: 'palt';
 }
+
+th,
+td {
+  border: 1px solid black;
+}
